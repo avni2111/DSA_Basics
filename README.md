@@ -1,1 +1,3 @@
 # DSA_Basics
+Welcome to the DSA Basics to Advanced repository! This collection is designed to help you master Data Structures and Algorithms, starting from the fundamentals and progressing to more complex topics. It provides well-organized code examples and explanations, covering essential data structures like arrays, linked lists, stacks, and queues, along with advanced algorithms including dynamic programming, graph algorithms, and sorting techniques. Whether you are a beginner aiming to build a strong foundation or an experienced coder seeking to refine your skills, this repository serves as a valuable resource for understanding and solving DSA problems effectively.
+
